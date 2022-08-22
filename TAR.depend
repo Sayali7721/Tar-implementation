@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1618295950 source:d:\dsa ii lab\tar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/types.h>
+	<fcntl.h>
+	"tar.h"
+
+1618294530 source:d:\dsa ii lab\tar\tar.c
+	"tar.h"
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+	<stdarg.h>
+	<string.h>
+	<dirent.h>
+
+1618053389 d:\dsa ii lab\tar\tar.h
+	<fcntl.h>
+	<stdio.h>
+	<sys/stat.h>
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+
